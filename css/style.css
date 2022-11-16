@@ -24,7 +24,7 @@ heart {
   position: absolute;
   width: 20px;
   height: 20px;
-  color: #FFF;
+  color:255, 158, 234, 0.993;
   text-align: center;
   /* background: #e74c3c; */
   font-size: 30px;
